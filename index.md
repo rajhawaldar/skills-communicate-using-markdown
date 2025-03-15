@@ -38,3 +38,10 @@ Language Known
 2. py
 3. sh
 4. c
+
+
+```go
+func main() {
+  fmt.Println("Hello World!")
+}
+```

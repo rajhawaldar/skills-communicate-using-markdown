@@ -45,3 +45,7 @@ func main() {
   fmt.Println("Hello World!")
 }
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Add Custome domain if required
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
